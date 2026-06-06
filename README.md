@@ -65,6 +65,14 @@ Spiceworks Cloud Help Desk was configured with four ticket rules for automatic c
 
 ---
 
+## Documents
+
+- [Lab Environment Overview](https://docs.google.com/document/d/1low8cbWcL025I_DIA-7pd-f-H9jO37aliTvBn8-GERs/edit?usp=sharing)
+- [Ticket Resolution Log](https://docs.google.com/document/d/12fPvMZapTcXp_nANZ-h-pnxB37QHdR7MGP_mNVviUNY/edit?usp=sharing)
+- [IT Support Troubleshooting Template](https://docs.google.com/document/d/1IQ5fhtqS62E_V1whicPeQE_1mI4bWtxAlsKhPSsLqG4/edit?usp=sharing)
+
+---
+
 ## Key Skills Demonstrated
 
 - Virtual machine deployment and network configuration
