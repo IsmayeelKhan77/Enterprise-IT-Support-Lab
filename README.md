@@ -20,7 +20,7 @@ The lab consists of two virtual machines running on VMware Workstation 17 Player
 
 ---
 
-## Technologies Used
+## Technologies Used               
 
 - VMware Workstation 17 Player
 - Windows Server 2022
