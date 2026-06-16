@@ -38,7 +38,7 @@ The lab consists of two virtual machines running on VMware Workstation 17 Player
 ## Helpdesk Ticketing System
 
 Spiceworks Cloud Help Desk was configured with four ticket rules for automatic categorisation covering Network, Software, Hardware, and Account issues. Three canned responses were created to ensure professional and consistent communication with users throughout the ticket lifecycle.
-
+                       
 ---
 
 ## Support Scenarios Resolved
