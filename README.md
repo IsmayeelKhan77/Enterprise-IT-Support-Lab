@@ -8,7 +8,7 @@
 
 ---   
     
-## Project Overview 
+## Project Overview  
                         
 This project simulates a real-world enterprise IT support environment built from scratch using virtualization technology. The objective was to replicate the responsibilities and workflows of a Helpdesk Technician by building a multi-VM lab infrastructure, deploying a ticketing system, and resolving ten realistic IT support scenarios using structured troubleshooting methodology.    
       
