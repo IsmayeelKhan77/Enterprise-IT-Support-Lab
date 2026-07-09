@@ -19,7 +19,7 @@ This project simulates a real-world enterprise IT support environment built from
 The lab consists of two virtual machines running on VMware Workstation 17 Player. The first machine runs Windows Server 2022 and serves as the domain controller for the Project.local Active Directory domain. It also hosts the Spiceworks Cloud Help Desk ticketing system. The second machine runs Windows 11 Pro and represents a standard employee workstation joined to the domain. Both machines are connected via a private LAN Segment network adapter simulating a local business network, with a secondary NAT adapter providing internet access.
             
 ---                
-
+  
 ## Technologies Used           
 
 - VMware Workstation 17 Player
