@@ -2,7 +2,7 @@
 
 **Author:** Mohd. Ismayeel Khan                           
 **Date:** 5 June 2026
-**Environment:** VMware Workstation 17 Player | Windows Server 2022 | Windows 11 Pro                                   
+**Environment:** VMware Workstation 17 Player | Windows Server 2022 | Windows 11 Pro                                       
 **Domain:** Project.local                  
 **Ticketing System:** Spiceworks Cloud Help Desk.
 
